@@ -27,3 +27,8 @@ root/product/project/src
 # (4) Create github repository
 
 # (5) Git init, initial commit, push
+```
+git remote add origin git@github.com:vpchar/todo.git
+git branch -M main
+git push -u origin main
+```

@@ -1,10 +1,14 @@
 # ToDo:
 Abstract, agnostic & product- centric KISS tool for Agile ALM 
 
-## (1) KISS (minimalistic, no-BS ) 
+ # What I want?
 
-## (2) Abstract (see.1)
+I need some central project-management to keep me organised as self-employed one-man-show freelance developer. Want it simple but expandable, structured and providing me with single source of truth about all my activities. Want to track issues, end-user communication etc., in the ideal case it will be as much automated as possible. Why not CI/CD etc.
 
-## (3) Agnostic (tools, services, languages...)
+# Main Goal
 
-## (4) Product-centric DEVELOPMENT of LIVE software
+To make my life easier, to serve me as the backbone of my activity. Tailored for me initially, it should become open for more players (employees, subcontractors...other roles)
+
+# KISS
+
+Basic functionality, no time for waterfall projects

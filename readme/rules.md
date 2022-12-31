@@ -1,13 +1,4 @@
-# ToDo:
-Abstract, agnostic & product- centric KISS tool for Agile ALM 
 
-## (1) KISS (minimalistic, no-BS ) 
-
-## (2) Abstract (see.1)
-
-## (3) Agnostic (tools, services, languages...)
-
-## (4) Product-centric DEVELOPMENT of LIVE software
 
 # Design paradigm for the tool itself:
 
@@ -21,3 +12,13 @@ Abstract, agnostic & product- centric KISS tool for Agile ALM
 - self documenting - noBS readme in each folder
 - modular means SMALL modules
 - procedure development on each step
+
+# Master plan:
+
+ (1) KISS (minimalistic, no-BS ) 
+
+ (2) Abstract (see.1)
+
+ (3) Agnostic (tools, services, languages...)
+
+ (4) Product-centric DEVELOPMENT of LIVE software
