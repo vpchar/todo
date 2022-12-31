@@ -21,6 +21,9 @@ root
 root/product
 root/product/project
 root/product/project/src 
+root/product/project/src/backend (we'll put anything important here; server)
+root/product/project/src/frontend (client side; CLI or web apps...)
+root/product/project/dist
 ...
 ```
 
