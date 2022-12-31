@@ -12,6 +12,9 @@
 - self documenting - noBS readme in each folder
 - modular means SMALL modules
 - procedure development on each step
+- non mission critical
+- not planned for big/huge projects/vendors
+- core isolation (backend), plug-n-play frontend
 
 # Master plan:
 
