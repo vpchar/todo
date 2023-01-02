@@ -12,3 +12,6 @@ To make my life easier, to serve me as the backbone of my activity. Tailored for
 # KISS
 
 Basic functionality, no time for waterfall projects
+
+# GTD Approach
+In this iteration, we just want it running ASAP; 

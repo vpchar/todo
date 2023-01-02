@@ -1,1 +1,1 @@
-# frontend clients (cli, html etc.)
+# frontend clients (cli, web-app, mobile app etc.)
