@@ -16,9 +16,17 @@ Basic functionality, no time for big systems
 # GTD Approach
 In this iteration, we just want it running ASAP; 
 
-# Epic (1) -- create template (folder structure) around abstract (any) web-app project.
+# Epics:
+
+## Idea (1) -- create template (folder structure) around abstract (any) web-app project.
 
 This is a good way to organise the *way* of organising development, from developer point of view. Take the template and start from there. The first iteration is this "todo" project and making the categoryes (folder) with relations and descriotions (readme files) as a basic "iformal" ontology.
+
+## Idea (1.1) -- create a "setup wizard" that generates folder structure from template (1)
+
+Obviously we can copy paste, but...why not
+
+# Notes:
 
 Note that this is not the source tree, no real code lives in these folders. We just decribe and organise the product here. In each respective folder/subfolder we have human readable files with notes about the respective module and later -- links to the repositories of the given module/part.
 
